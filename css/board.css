@@ -1,0 +1,135 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+<style type="text/css"> body {
+    margin: 0;
+    padding: 0;
+    min-height: 100%;
+    /* 瀏覽器的視窗大小改變時顯示處理 */
+    position: relative;
+    /* 相對的位置 */
+}
+
+.container {
+    box-shadow: 0px 0px 15px #888888;
+    background-color: #ffffff;
+    height: 1400px;
+    width: 1030px;
+    margin: 0 auto;
+    font-family: 微軟正黑體;
+}
+
+.sign {
+    background-color:#3E4E50;
+    color: white;
+    height: 20px;
+    width: 990px;
+    margin: 10px 15px 10px 15px;
+    padding: 5px;
+    float: left;
+    text-align:right;
+}
+
+.sign a:link{
+	font-size:14pt;
+	color: white;
+	text-decoration: none;/*無特效,去底線*/
+	/*text-shadow:0px 0px 15px #fff;*/
+	text-align: right;
+}
+.sign a:visited {
+	color:white; 
+	text-decoration: none;
+} 
+
+.banner {
+    background-color: white;
+    color: #35271F;
+    border:5px #634624 solid;
+    height: 90px;
+    width: 990px;
+    float: left;
+    text-align: center;
+    font-size: 23pt;
+    margin: 10px 15px 10px 15px;
+}
+.banner a:link{
+    color: #35271F;
+    text-decoration: none;
+}
+.banner a:visited {
+    color: #35271F;
+    text-decoration: none;
+}
+
+.sidebar {
+    background-color: #9A6D38;
+    height: 1200px;
+    width: 200px;
+    float: left;
+    margin: 10px 15px 10px 15px;
+    text-align: center;
+}
+
+.login_content {
+    background-color:blanchedalmond;
+    border:5px #634624 solid;
+    height: 1130px;
+    width: 710px;
+    float: right;
+    padding: 30px;
+    margin: 10px 15px 10px 0px;
+    text-align: center;
+}
+
+.content {
+    background-color:blanchedalmond;
+    border:5px #634624 solid;
+    height: 1130px;
+    width: 930px;
+    float: right;
+    padding: 30px;
+    margin: 10px 15px 10px 0px;
+    text-align: center;
+}
+
+.ul_member {
+    font-size: 12pt;
+    color: #FFFFFF;
+    text-align: right;
+    margin: 10px 10px 10px 10px;
+}
+
+.cont_tb{
+    background-color:#FFE5D9;
+    border:5px #634624 double;
+    border-collapse:collapse;
+    margin-left:auto; /*置中*/
+    margin-right:auto;/*置中*/
+}
+.cont_tb td{
+    text-align: left;
+    padding: 10px;
+    border: 1px #FACFAD groove;
+}
+
+
+.bar_tb{
+    padding: 30px;
+}
+.bar_tb td{
+    padding: 10px;
+    border: 5px #FACFAD groove;
+}
+.bar_tb a:link{
+	font-size:18pt;
+	color: white;
+	text-decoration: none;
+	/*text-shadow:0px 0px 15px #fff;*/
+	text-align: center;
+}
+.bar_tb a:visited {
+	color:white; 
+	text-decoration: none;
+} 
