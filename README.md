@@ -27,7 +27,7 @@ center88留言板 with MVC + member + 前端可以改用jquery validate
     未做工作:
     
 ## Picture
-![image]()
+![image](https://github.com/emma62042/ex-MVC-member/blob/master/center88%E9%A6%96%E9%A0%81.PNG)
     
     
     
