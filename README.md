@@ -4,6 +4,7 @@ ex-MVC-member
 ## Table of Contents
 - [ex-MVC-member](#ex-MVC-board)
   * [Beginners Guide](#beginners-guide)
+  * [Picture](#Picture)
 
 ## Beginners Guide
 
@@ -24,6 +25,9 @@ center88留言板 with MVC + member + 前端可以改用jquery validate
 * 2019/11/21
     ##
     未做工作:
+    
+## Picture
+![image]()
     
     
     
